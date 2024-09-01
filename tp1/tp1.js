@@ -1,3 +1,11 @@
+//PRATTI, JULIETA EDELWEISS
+//83917/3
+//COMISION 5
+//https://youtu.be/gyBTCDMLOTk
+
+
+
+
 let OpArt;
 let circulos = 90;
 let radioGrande, radioChico;
