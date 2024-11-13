@@ -1,0 +1,8 @@
+class Pantalla {
+  constructor() { 
+    
+  }
+
+  dibujar() { 
+  }
+}
