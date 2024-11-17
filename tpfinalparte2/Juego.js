@@ -31,7 +31,7 @@ class Juego {
       this.estadoFinal ="Perdiste!";
     }
     if (!this.verificarEnemigosRestantes()) {
-      this.  this.estadoFinal ="Ganaste!";
+      this.estadoFinal ="Ganaste!";
     }
     if (this.estadoFinal !== "") {
       miJuego.cambioDePantalla("creditos");
