@@ -21,9 +21,9 @@ class ProgramaDeFlujoGeneral {
   }else if(nombreDePantalla === "juego"){
     if(this.pantallaActiva !== 2){
       if(!this.juego){
-        this.juego = new Juego(5); // Asegurarse de que el juego solo se cree una vez
+        this.juego = new Juego(5);
       }
-      this.juego.iniciarJuego();  // Inicia el juego correctamente
+      this.juego.iniciarJuego();
     }
     this.pantallaActiva = 2;
   }else if(nombreDePantalla === "creditos"){
